@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@aws-amplify/datastore": "^3.12.1",
+    "@aws-amplify/ui-react": "^3.0.1",
+    "aws-amplify": "^4.3.26"
+  }
+}
